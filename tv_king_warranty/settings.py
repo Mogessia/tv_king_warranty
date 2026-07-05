@@ -25,8 +25,7 @@ SECRET_KEY = 'django-insecure-@1k1@9)sl22wpo*=cr@rwdfwe^&$x=5oxxlw1wsx3jzrv(doi3
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
-
+ALLOWED_HOSTS = ['tv-king-warranty.onrender.com', '127.0.0.1', 'localhost']
 
 # Application definition
 
